@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidCustomKeyboard.iml" filepath="$PROJECT_DIR$/AndroidCustomKeyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Light Keyboard-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Light Keyboard-app.iml" group="Light Keyboard/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Light_Keyboard.iml" filepath="$PROJECT_DIR$/.idea/modules/Light_Keyboard.iml" group="Light_Keyboard" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
